@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PostItApp</string>
+
+    <string name="saludo">Estás usando la aplicación PostItApp: mediante un widget pega en tu escritorio y personaliza tu "post it", en 3 sencillos pasos. </string>
+    <string name="uso"> Localiza el widget de PostItApp, arrastralo e introduce el texto que quieras... ¡y ya lo tienes!. </string>
+
+    <string name="autor"> Aplicación realizada por JCristobal </string>
+
+    <string name="action_author"> Autor </string>
+    <string name="action_exit"> Salir </string>
+
+    <string name="mensaje_config"> Introduce el texto: </string>
+    <string name="aceptar"> Aceptar </string>
+    <string name="cancelar"> Cancelar </string>
+
+</resources>
