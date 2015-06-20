@@ -29,7 +29,7 @@ public class widget extends AppWidgetProvider {
             int widgetId = appWidgetIds[i];
 
             //Actualizamos el widget actual
-            actualizarWidget(context, appWidgetManager, widgetId);
+            //actualizarWidget(context, appWidgetManager, widgetId);
         }
 
     }
